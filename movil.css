@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section{ 
+background: linear-gradient(35.54deg, #2855AE -7.25%, #7292CF 90.75%);
+	max-width: 375px;
+	
+       display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding-bottom: 0px;
+	
+}
+.section-retagulo { 
+	max-width: 375px;
+	margin-top: 0PX;
+	padding-bottom: 0px;
+	
+	flex-direction: column;
+	justify-content: center;
+	display: flex;
+}
+
+.maskg{ 
+	margin-top: 0rem;
+	align-self:inherit;
+}
